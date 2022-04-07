@@ -4,4 +4,5 @@ The goal of this project is to recreate a layout using HTML and CSS from an imag
 
 I tried to utilize only flexboxes for positioning the layout as this has been the main topic throughout the previous few lessons.
 
+[Link to live page](https://kmsedu.github.io/landing-page/)
 [Link to lesson](https://www.theodinproject.com/lessons/foundations-landing-page)
